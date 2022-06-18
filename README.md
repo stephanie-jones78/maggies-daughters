@@ -1,5 +1,11 @@
 # Maggie's Daughters
 A personal project about economic empowerment celebrating the life and legacy and Maggie L. Walker
+<br>
+<br>
+![Maggie Walker Historical Site](images/historic-site_wikimedia.jpeg)
+> Image from [Wikimedia](https://en.wikipedia.org/wiki/File:Maggie_L_Walker_Historic_Site.jpg)
+
+<br>
 
 # About Maggie Walker
 As America struggled to regain its balance in the aftermath of the American Civil War, Maggie Lena Walker did her best to actively effect change by finding solutions to the social and economic problems facing blacks and especially black women. 
@@ -34,6 +40,9 @@ I began the project by collecting event data from various source (see Sources se
 5. Take conclusions and, using Tableau and/or Canva, create a presentation about Maggie's Walker's life and key takeways about her legacy.
 <br>
 ## Steps to Reproduce
+1.
+2.
+3.
 
 <br>
 
