@@ -1,5 +1,5 @@
 # Maggie's Daughters
-A personal project about economic empowerment celebrating the life and legacy and Maggie L. Walker
+A personal project about economic empowerment, celebrating the life and legacy of educator, philanthopist, and first woman bank President, Maggie L. Walker.
 <br>
 <br>
 ![Maggie Walker Historical Site](images/historic-site_wikimedia.jpeg)
