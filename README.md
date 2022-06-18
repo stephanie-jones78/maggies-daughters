@@ -25,7 +25,7 @@ Maggie Walker was born shortly after the Civil War, to a single black, formerly 
 
 # Project Plan
 I began the project by collecting event data from various source (see Sources section) in a Google spreadsheet. I plan to tell the story of Maggie Walker through a timeline presentation using Google Sheets to collect the data, Jupyter Notebooks and Python to futher collect, clean, and prepare the data for exploration and visualization, and then a Tableau workbook and possibly Google Slides or Canva for presentation. <br>
-1. Learn the story of Maggie Walker and collect data on key events in a Google Sheet document
+1. Learn the story of Maggie Walker and collect data on key events in a Google Sheet document while also learning more about finance and, specifically investment
 2. Read the data from the Google Sheet into a Pandas DataFrame using Python into a Jupyter Notbook
 3. Clean the data and create a `wrangle.py` module to store functions that make the work reproducible.
 4. Perform exploratory analysis and document key findings to be used in the presentation. Create an `explore.py` module to store functions that make the work reproducible.
