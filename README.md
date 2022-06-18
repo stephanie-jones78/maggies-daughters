@@ -29,20 +29,20 @@ I began the project by collecting event data from various source (see Sources se
 2. Read the data from the Google Sheet into a Pandas DataFrame using Python into a Jupyter Notbook
 3. Clean the data and create a `wrangle.py` module to store functions that make the work reproducible.
 4. Perform exploratory analysis and document key findings to be used in the presentation. Create an `explore.py` module to store functions that make the work reproducible.
-<details>
-<summary>Click here for <b>Initial Exploratory Questions</b></summary>
-    1. Can key events in Maggie's Walker's life be grouped in a meaningful way (e.g. Periods: Developmental, Learning, Working, Leaderhip, Retirement, etc.). I am recording the events and giving each event categories and sub-categories so looking at a frequency of categories by binned dates may uncover these insights. 
-    2. Engineering a boolean feature that records an events as a positive or negative and determining how the frequency of positive and negatives may or may not have impacted milestones in her professional and personal life. 
-    3. Looking at that same positive and negative events indicator, were there more positive/negative professional or personal events? (This is somewhat subjective, because we cannot know every event that happened in her life, only those that are documented and, for the purposes of this project, that I am capturing in this dataset)
-</details>
-<br>
+    <details>
+    <summary><b>Click here for Initial Exploratory Questions</b></summary>
+        1. Can key events in Maggie's Walker's life be grouped in a meaningful way (e.g. Periods: Developmental, Learning, Working, Leaderhip, Retirement, etc.). I am recording the events and giving each event categories and sub-categories so looking at a frequency of categories by binned dates may uncover these insights. <br><br>
+        2. Engineering a boolean feature that records an events as a positive or negative and determining how the frequency of positive and negatives may or may not have impacted milestones in her professional and personal life. <br><br>
+        3. Looking at that same positive and negative events indicator, were there more positive/negative professional or personal events? (This is somewhat subjective, because we cannot know every event that happened in her life, only those that are documented and, for the purposes of this project, that I am capturing in this dataset)
+    </details>
 
 5. Take conclusions and, using Tableau and/or Canva, create a presentation about Maggie's Walker's life and key takeways about her legacy.
 <br>
+
 ## Steps to Reproduce
-1.
-2.
-3.
+1. Step 1
+2. Step 2
+3. Step 3
 
 <br>
 
