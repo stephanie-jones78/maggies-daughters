@@ -25,7 +25,7 @@ Maggie Walker was born shortly after the Civil War, to a single black, formerly 
 
 # Resources
 - [Project Data](https://docs.google.com/spreadsheets/d/17ygHkgbI0yy6Imhx7WOiZIPT9fL4LqEKgv00VMSSzzQ/edit?usp=sharing), *working document compiled by Stephanie N. Jones from various sources*
-- [Virtual Tour of the Maggie Walker House](https://artsandculture.google.com/partner/maggie-l-walker-national-historic-site), *Google Arts and Culture*
+- [Virtual Tour of the Maggie Walker House](https://artsandculture.google.com/story/in-her-footsteps-a-virtual-tour-of-maggie-l-walker-s-home-maggie-l-walker-national-historic-site/8AXR_Z9D-zGYLw?hl=en), *Google Arts and Culture*
 - [Glossary of Investment Terms](https://docs.google.com/document/d/12_STHHbEe2TcKPmh4M3txuj5x6bc05-CUMAJs6I6m7Q/edit?usp=sharing), *working document, compiled by Stephanie N. Jones from Investopedia*
 
 # Project Plan
