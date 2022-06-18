@@ -23,6 +23,11 @@ Maggie Walker was born shortly after the Civil War, to a single black, formerly 
 </details>
 <br>
 
+# Resources
+- [Project Data](https://docs.google.com/spreadsheets/d/17ygHkgbI0yy6Imhx7WOiZIPT9fL4LqEKgv00VMSSzzQ/edit?usp=sharing), *working document compiled by Stephanie N. Jones from various sources*
+- [Virtual Tour of the Maggie Walker House](https://artsandculture.google.com/partner/maggie-l-walker-national-historic-site), *Google Arts and Culture*
+- [Glossary of Investment Terms](https://docs.google.com/document/d/12_STHHbEe2TcKPmh4M3txuj5x6bc05-CUMAJs6I6m7Q/edit?usp=sharing), *working document, compiled by Stephanie N. Jones from Investopedia*
+
 # Project Plan
 I began the project by collecting event data from various source (see Sources section) in a Google spreadsheet. I plan to tell the story of Maggie Walker through a timeline presentation using Google Sheets to collect the data, Jupyter Notebooks and Python to futher collect, clean, and prepare the data for exploration and visualization, and then a Tableau workbook and possibly Google Slides or Canva for presentation. <br>
 1. Learn the story of Maggie Walker and collect data on key events in a Google Sheet document while also learning more about finance and, specifically investment
