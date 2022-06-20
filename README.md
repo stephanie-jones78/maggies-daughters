@@ -19,7 +19,7 @@ Taking charge of the flailing Independent Order of St. Luke in 1899, Walker tran
 This project was birthed out the desire for economic education and empowerment, especially for societal groups that have been historically disadvantaged. What began as a desire to learn more about the fiancial industry and investments became a deep dive into the life and legacy of Maggie Lena Walker.   
 <details>
     <summary>Read more...</summary>
-Maggie Walker was born shortly after the Civil War to a formerly enslaved woman who worked for a Union spy during the way and a former Confederate soldier. After her Maggie's step-father, the man her mother who go on to marry, was found dead their family struggled financially and plunged into povery. After starting a laundry business, her mother saw firsthand the economic gap and disparity between the people in her community and the laundry patrons she serviced in her business. This lit a fire in Maggie's mother that would lead her to instill in her children a heart for service and empowerment through academic and economic advancement. 
+Maggie Walker was born shortly after the Civil War to a formerly enslaved woman who worked for a Union spy during the war and a former Confederate soldier. After Maggie's step-father, the man her mother would go on to marry, was found dead their family struggled financially and plunged into povery. After starting a laundry business her mother saw firsthand the economic gap and disparity between the people in her community and the laundry patrons she serviced in her business. This lit a fire in Maggie's mother that would lead her to instill in her own children a heart for service and empowerment through academic and economic advancement. 
 </details>
 <br>
 
