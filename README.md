@@ -8,18 +8,18 @@ A personal project about economic empowerment, celebrating the life and legacy o
 <br>
 
 # About Maggie Walker
-As America struggled to regain its balance in the aftermath of the American Civil War, Maggie Lena Walker did her best to actively effect change by finding solutions to the social and economic problems facing blacks and especially black women. 
+As America struggled to regain its balance in the aftermath of the American Civil War, Maggie Lena Walker did her best to actively effect change by finding solutions to the social and economic problems facing socially disadvantaged groups, especially women and minorities. 
 <details>
     <summary>Read more...</summary>
-Taking charge of the flailing Independent Order of St. Luke in 1899, Walker transformed the organization into a vibrant and thriving economic engine for blacks. With a vision of economic self-sufficiency, she established a newspaper in 1902, chartered the St. Luke Penny Savings Bank in 1903 becoming the first woman bank president in the United States, and opened a store run by and for blacks. Throughout her life, Walker persevered and thrived despite personal, social and professional obstacles. [1]<br>
+Taking charge of the flailing Independent Order of St. Luke in 1899, Walker transformed the organization into a vibrant and thriving economic engine. With a vision of economic self-sufficiency, she established a newspaper in 1902, chartered the St. Luke Penny Savings Bank in 1903 becoming the first woman bank president in the United States. Throughout her life, Walker persevered and thrived despite personal, social and professional obstacles. [1]<br>
 </details>
 <br>
 
 # About The Project
-This project was birthed out the desire for economic education and empowerment of societal groups that have been historically disadvantaged. What began as a desire to learn more about the fiancial industry and investments became a deep dive into the life and legacy of Maggie Lena Walker.   
+This project was birthed out the desire for economic education and empowerment, especially for societal groups that have been historically disadvantaged. What began as a desire to learn more about the fiancial industry and investments became a deep dive into the life and legacy of Maggie Lena Walker.   
 <details>
     <summary>Read more...</summary>
-Maggie Walker was born shortly after the Civil War, to a single black, formerly enslaved woman and white former Confederate soldier. After her Maggie's step-father, the black man her mother who go on to marry, was found dead their family struggled and after starting her own business, her mother saw firsthand the economic gap and disparity between black people and the white patrons she serviced. This lit a fire in Maggie's mother that would lead her to instill into her children a heart for social justice through academic and economic advancement. 
+Maggie Walker was born shortly after the Civil War to a formerly enslaved woman who worked for a Union spy during the way and a former Confederate soldier. After her Maggie's step-father, the man her mother who go on to marry, was found dead their family struggled financially and plunged into povery. After starting a laundry business, her mother saw firsthand the economic gap and disparity between the people in her community and the laundry patrons she serviced in her business. This lit a fire in Maggie's mother that would lead her to instill in her children a heart for service and empowerment through academic and economic advancement. 
 </details>
 <br>
 
