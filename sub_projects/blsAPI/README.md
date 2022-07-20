@@ -99,7 +99,7 @@ Parameter | Description | Optional
 - [Sample Python Code](https://www.bls.gov/developers/api_python.htm#python2) 
 - [Freq Asked Questions](https://www.bls.gov/developers/api_faqs.htm#signatures1)
 - [Series Keyword Search](https://beta.bls.gov/dataQuery/find?st=0&r=20&s=popularity%3AD&more=0)
-- [**seriesID prefix links**](https://download.bls.gov/pub/time.series/) *and* [***seriesID prefix meanings***](https://download.bls.gov/pub/time.series/overview.txt)
+- [**seriesID prefix links**](https://download.bls.gov/pub/time.series/),  [***seriesID prefix meanings***](https://download.bls.gov/pub/time.series/overview.txt), *and* [**seriesID prefix quick ref, documentation**](https://documentation.sas.com/doc/en/pgmsascdc/v_027/casecon/casecon_sasebls_details01.htm)
 
 <details>
     <summary>seriesID Link Directory Structure</summary>
@@ -111,14 +111,18 @@ fileName | Description
 `xX.series` | series-level data
 `xX.data.0-n` | observational data
 `xX.map` | survey-specific specific mapping files, which relate codes to meaningful names ((i.e. xX.industry, xX.area, etc...))
-`xX.text` *or* `xX.doc`| Documentation for individual surveys, including a survey description, the table structure, information on data partitioning, and definitions of data elements. Documentation includes the following:
+`xX.text` *or* `xX.doc`| Documentation for individual surveys, including a survey description, the table structure, information on data partitioning, and definitions of data elements. 
+</details>
+<br>
+
+Documentation fileincludes the following:
 1. **Survey Description:** *Description of survey and data available*
 2. **Summary of Data:** *Description of available data elements and their characteristics*
 3. **Freq of Observation:** *The frequency of various data series available for that particular survey (quarterly, monthly, etc.*
 4. **Data Characteristics:** *Value of various data series for that particular survey*
-5. Updating Schedule: *Freq new data available on LABSTAT*
+5. **Updating Schedule:** *Freq new data available on LABSTAT*
 6. **File Structure and Format:** *List of files available and what they contain*
 7. **Element Defintions:** *Defined list of the elements for each survey*
 
-</details>
+
 
